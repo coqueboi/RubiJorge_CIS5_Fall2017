@@ -26,9 +26,9 @@ int main(int argc, char** argv) {
     //Input or initialize values Here
     cout<<"This program takes two integers and determines which of the "
             "two is larger."<<endl;
-    cout<<"Please input the first integer."<<endl;
+    cout<<"Please input the first integer (a)."<<endl;
     cin>>a;
-    cout<<"Thank you, now please enter the second integer."<<endl;
+    cout<<"Thank you, now please enter the second integer (b)."<<endl;
     cin>>b;   
     
     //Process/Calculations Here

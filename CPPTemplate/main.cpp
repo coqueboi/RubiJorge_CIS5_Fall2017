@@ -21,11 +21,11 @@ using namespace std; // The standard name-space for system libraries
 int main() {
     //Variable Declaration
     
-    //Variable Initialization
+    //Input / Variable Initialization
     
-    //Process Mapping - Inputs to Outputs 
+    //Process / Calculations
     
-    //Re-Display Inputs and write the Outputs
+    //Output
     
     
     //Exit function main, end of program
